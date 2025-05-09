@@ -2,7 +2,7 @@
 
 VirtualR is a modern and intuitive VR application development toolkit that empowers developers to bring immersive VR experiences to life.
 
-![screenshot](./assets/frontpage.PNG)
+![screenshot](./frontpage.PNG)
 
 ## 🚀 Features
 
