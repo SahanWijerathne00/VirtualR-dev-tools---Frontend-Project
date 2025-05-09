@@ -2,7 +2,7 @@
 
 VirtualR is a modern and intuitive VR application development toolkit that empowers developers to bring immersive VR experiences to life.
 
-![screenshot](./assets/frontpage.png)
+![screenshot](./assets/frontpage.PNG)
 
 ## 🚀 Features
 
@@ -22,27 +22,27 @@ VirtualR is a modern and intuitive VR application development toolkit that empow
 ## 📁 Project Structure
 
 virtualr-main/
-├── public/
-├── src/
-│ ├── assets/
-│ ├── components/
-│ │ ├── FeatureSection.jsx
-│ │ ├── Footer.jsx
-│ │ ├── HeroSection.jsx
-│ │ ├── Navbar.jsx
-│ │ ├── Pricing.jsx
-│ │ ├── Testimonials.jsx
-│ │ └── Workflow.jsx
-│ ├── constants/
-│ │ └── index.jsx
-│ ├── App.jsx
-│ ├── index.css
-│ └── main.jsx
-├── tailwind.config.js
-├── postcss.config.js
-├── vite.config.js
-├── index.html
-└── package.json
+-├── public/
+-├── src/
+-│ ├── assets/
+-│ ├── components/
+-│ │ ├── FeatureSection.jsx
+-│ │ ├── Footer.jsx
+-│ │ ├── HeroSection.jsx
+-│ │ ├── Navbar.jsx
+-│ │ ├── Pricing.jsx
+-│ │ ├── Testimonials.jsx
+-│ │ └── Workflow.jsx
+-│ ├── constants/
+-│ │ └── index.jsx
+-│ ├── App.jsx
+-│ ├── index.css
+-│ └── main.jsx
+-├── tailwind.config.js
+-├── postcss.config.js
+-├── vite.config.js
+-├── index.html
+-└── package.json
 
 ## 📦 Installation
 
